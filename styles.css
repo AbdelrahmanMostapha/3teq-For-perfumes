@@ -29,10 +29,10 @@ header {
     padding: 1.3rem 0;
     background: linear-gradient(to bottom, var(--black), var(--dark-gold));
 }
-/* 
+
 .logo {
     margin-bottom: 1rem;
-} */
+}
 
 .logo-img {
     width: 300px;
