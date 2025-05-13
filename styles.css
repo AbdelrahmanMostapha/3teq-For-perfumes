@@ -107,7 +107,6 @@ main {
     border: 0px ;
     position: absolute;
     top: 0;
-    margin-left: -25px;
     left: -100%;
     width: 100%;
     height: 100%;
@@ -135,6 +134,10 @@ main {
     border: 2px solid;
 }
 
+.fa-tiktok:before {
+    content: "\e07b";
+    margin-left:-25px;
+}
 footer {
     background-color: var(--black);
     border-top: 2px solid var(--gold);
