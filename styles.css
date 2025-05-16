@@ -182,6 +182,9 @@ footer {
     }
 } 
 
+.a i{
+    text-align:left;
+}
 /* From Uiverse.io by mrhyddenn */ 
 .shadow-btn {
   padding: 10px 20px;
@@ -195,6 +198,7 @@ footer {
   transition: 0.5s;
   transition-property: box-shadow;
   text-decoration: none;
+    text-align:center;
 }
 
 .shadow-btn {
