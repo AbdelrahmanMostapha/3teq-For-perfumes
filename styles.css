@@ -10,6 +10,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    user-select: none;
 }
 
 body {
@@ -192,6 +193,7 @@ footer {
   font-size: 17px;
   color: #fff;
   border-radius: 20px;
+    outline: none;
   letter-spacing: 4px;
   font-weight: 700;
   text-transform: uppercase;
