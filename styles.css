@@ -18,7 +18,9 @@ body {
     background-color: var(--white);
     color: white;
     line-height: 1.6;
-     background: linear-gradient(135deg, #ffffff76 0%, #B8860B 100%);}
+     background: linear-gradient(135deg, #ffffff76 0%, #B8860B 100%);
+    user-select: none;
+}
 
 
 .container {
@@ -43,6 +45,7 @@ header {
     border: 3px solid var(--black);
     background-color: linear-gradient(to bottom, var(--dark-gold), var(--black));
     padding: 5px;
+    user-select: none;
 }
 
 .name {
